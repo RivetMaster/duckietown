@@ -1,0 +1,11 @@
+<package>
+  <name>test2package</name>
+  <version>0.0.1</version>
+  <description>
+  My first Catkin package in Duckietown.
+  </description>
+  <maintainer email="GISH.LOVES.CHOCOLATE@GMAIL.COM">ELEANOR_GISH</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
